@@ -1,7 +1,5 @@
 ### Olá 👋
 
-Meu nome é Sara Vitoria
-
 Estudante FrontEnd. 💻
 
 
