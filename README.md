@@ -1,14 +1,28 @@
-### Olá 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-Estudante FrontEnd. 💻
+<p align="left"> 
+  Oi, meu nome é Sara Vitoria. Sou estudante <strong>Front-End</strong>.<br>
+</p>
 
+<p align="left">
+  🦄 Linguagens: <strong>HTML, CSS e JavaScript.</strong>
+</p>
 
-#### Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sara-vitoria-238773206/)](https://www.linkedin.com/in/sara-vitoria-238773206/) [![Gmail badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saravitoria2403@gmail.com)](mailto:saravitoria2403@gmail.com)
+<p align="left">
+  💼 Ferramentas: <strong>VSCode e GitHub</strong>
+</p>
 
+<p align="left">
+  💌 Contato ⤵️
+</p>
 
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=saravitoria2403@gmail.com" /></a>
 
-## What am i studying
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sara-vitoria-238773206/" /></a>
 
-<img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt = "HTML5" width = "40" height = "40" style = "max-width: 100%;"> </img> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt = "CSS3" width = "40" height = "40" style = "max-width: 100%;"> </img> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt = "JS" width = "40" height = "40" style = "max-width: 100%;"> </img> <img src ="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/angularjs/angularjs-original.svg" alt = "Angular" width = "40" height = "40" style = "max-width: 100%;"> </img>
-
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/vick.btw/"/></a>
+</p>  
