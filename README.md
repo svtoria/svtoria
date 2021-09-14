@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Git e GitHub.</strong>
+  💼 Ferramentas: <strong>Git e GitHub.</strong>
 </p>
 
  <p align="left">
