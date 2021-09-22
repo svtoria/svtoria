@@ -1,5 +1,5 @@
 ## Olá! meu nome é Sara Vitoria. Sou estudante <strong>Front-End</strong>.
-<div style="display: inline_block">
+<div style="display: flex; flex-direction: row">
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=svtoria&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svtoria&layout=compact&langs_count=7&theme=midnight-purple"/>
