@@ -1,8 +1,10 @@
 ## Olá! meu nome é Sara Vitoria. Sou estudante <strong>Front-End</strong>.
-
+<div style="display: inline_block">
+  
 ![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=svtoria&show_icons=true&theme=midnight-purple)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svtoria&layout=compact&langs_count=7&theme=midnight-purple"/>
-
+  
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
