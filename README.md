@@ -2,6 +2,7 @@
 <div style="display: flex; flex-direction: row;">
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=svtoria&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svtoria&show_icons=true&theme=dark&layout=compact" 
   
 </div>
 <div style="display: inline_block"><br>
@@ -11,6 +12,9 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" alt="Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
+  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
 <br>
