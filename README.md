@@ -1,4 +1,4 @@
-## Olá! meu nome é Sara Vitoria.
+## Olá!
 <div style="display: flex; flex-direction: row;">
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=svtoria&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
